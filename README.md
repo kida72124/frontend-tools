@@ -9,7 +9,7 @@
 ######工作流程/建置/組合 (Workflow/Builds/Assemblers)
 
 * [lumbar](http://walmartlabs.github.io/lumbar/)
-* [brunch](http://brunch.io/)
+* [brunch](http://brunch.io/)Handlebars
 * [grunt](http://gruntjs.com/)
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
@@ -161,6 +161,7 @@
 * [doT.js](http://olado.github.io/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
+* [Swig](http://paularmstrong.github.io/swig/)
 
 ---
 
@@ -284,7 +285,7 @@
 ---
 
 ######CSS 前置處理器 (Languages Compiling to CSS)
-* [Sass](http://sass-lang.com/)
+* [*Sass*](http://sass-lang.com/)
 	* [compass](http://compass-style.org)
 	* [inuit.css](https://github.com/csswizardry/inuit.css)
 	* [Bourbon](https://github.com/thoughtbot/bourbon): Mixins library for Sass
