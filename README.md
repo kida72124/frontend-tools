@@ -307,7 +307,7 @@
 
 ######HTML 前置處理器 (Languages Compiling to HTML)
 * [**jade**](http://jade-lang.com/)
-	*test
+	* test
 * [haml](https://github.com/haml/haml)
 * [markdown](http://daringfireball.net/projects/markdown/)
 * [slim](http://slim-lang.com/)
